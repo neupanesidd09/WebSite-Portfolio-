@@ -101,6 +101,21 @@ body {
     border-radius: 50px;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #ffffff;
+}
+th {
+    background-color: #f4f4f4;
+}
+
 
 .endingPart {
     background-color:rgb(13, 13, 13);
